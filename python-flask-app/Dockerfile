@@ -8,4 +8,4 @@ RUN pip install -r requirements.txt
 
 EXPOSE 8001
 
-CMD ["python", "python-flask-api.py"]
+CMD ["python", "python-flask-app.py"]
